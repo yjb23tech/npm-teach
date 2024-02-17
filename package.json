@@ -1,0 +1,15 @@
+{
+  "name": "npm-teach",
+  "version": "1.0.0",
+  "description": "More and more",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua Banjo",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.1.3",
+    "underscore": "^1.13.6"
+  }
+}
